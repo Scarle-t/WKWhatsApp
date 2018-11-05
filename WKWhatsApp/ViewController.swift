@@ -22,6 +22,13 @@ class ViewController: UIViewController {
         webView.load(URLRequest(url: URL(string: "https://web.whatsapp.com")!))
         
     }
+    
+    override func viewDidAppear(_ animated: Bool) {
+        super.viewDidAppear(animated)
+        
+        self.resignFirstResponder()
+        
+    }
 
 
 }
