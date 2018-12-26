@@ -47,5 +47,9 @@
 		<string>UIInterfaceOrientationPortraitUpsideDown</string>
 		<string>UIInterfaceOrientationPortrait</string>
 	</array>
+	<key>NSCameraUsageDescription</key>
+	<string>Whatsapp Web uses Camera to take photo.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Whatsapp Web uses Microphone to record voice messages and video.</string>
 </dict>
 </plist>
