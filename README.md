@@ -1,3 +1,7 @@
+# Development Plan
+As Apple will release iPadOS 13 in Fall, bringing support for Desktop site to Safari as default makes WhatsApp Web (https://web.whatsapp.com) works extremely reliable, this changes leads to WKWhatsApp become obsolete.
+There will be no more further development/ maintenance.
+
 # WKWhatsApp
 A basic WhatsApp Web Viewer for iPad
 
